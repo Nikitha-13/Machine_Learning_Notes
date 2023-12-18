@@ -1,5 +1,5 @@
 ## Machine_Learning_Notes
-This is a Machine Learning Notes which gives you an understanding on the Machine Learning Concepts.
+This is a Machine Learning Notes which gives you an understanding on the Machine Learning Concepts which are arranged properly in different files and named them accordingly for easy access.
 
 Hope you enjoy reading this!!
 
